@@ -1,2 +1,2 @@
 # devops-netology
-DEVOPS-22 Sergey Melnikov WorkSpace
+DEVOPS-22 Netology Sergey Melnikov WorkSpace
